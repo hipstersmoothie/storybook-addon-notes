@@ -14,7 +14,6 @@
     "target": "es5",
     "lib": ["es2017", "dom"],
     "rootDir": "./src",
-    "types": ["webpack-env"],
     "outDir": "dist"
   },
   "exclude": [
