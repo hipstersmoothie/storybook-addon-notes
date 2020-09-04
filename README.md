@@ -1,4 +1,4 @@
-# Storybook Addon Notes
+# @alisowski/storybook-addon-notes
 
 > NOTE: Storybook deprecated this plugin in favor of `addon-docs`.
 > While that plugin is useful this plugin solves different problems.
@@ -12,14 +12,14 @@ Storybook Addon Notes allows you to write notes (text or HTML) for your stories 
 ## Getting Started
 
 ```sh
-yarn add -D storybook-addon-notes
+yarn add -D @alisowski/storybook-addon-notes
 ```
 
 within `.storybook/main.js`:
 
 ```js
 module.exports = {
-  addons: ["storybook-addon-notes/register"],
+  addons: ["@alisowski/storybook-addon-notes/register"],
 };
 ```
 
@@ -27,7 +27,7 @@ Alternatively register the notes addon into a panel. Choose only one, not both.
 
 ```js
 module.exports = {
-  addons: ["storybook-addon-notes/register-panel"],
+  addons: ["@alisowski/storybook-addon-notes/register-panel"],
 };
 ```
 

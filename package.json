@@ -1,5 +1,5 @@
 {
-  "name": "storybook-addon-notes",
+  "name": "@alisowski/storybook-addon-notes",
   "version": "6.0.0",
   "description": "Write notes for your Storybook stories.",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
