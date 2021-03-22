@@ -6,7 +6,9 @@
   "keywords": [
     "addon",
     "notes",
-    "storybook"
+    "storybook",
+    "storybook-addon",
+    "organize"
   ],
   "repository": "https://github.com/hipstersmoothie/storybook-addon-notes",
   "license": "MIT",
